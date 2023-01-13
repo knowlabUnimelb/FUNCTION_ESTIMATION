@@ -1,7 +1,7 @@
 # FUNCTION_ESTIMATION
 Function Estimation data from Little, Shiffrin &amp; Laham (2022) https://psyarxiv.com/5c9na/
 
-Project contains two files:
+Project contains four files:
 
 function_estimation_stimuli.dat 
 -- scatterplot data shown to observers
@@ -23,3 +23,6 @@ function_estimation_responses.dat
   - item code  (matches stimulus file)
   - x value
   - y value
+
+Supplement - Function Questionairre.pdf 
+-- Function estimation stimuli
